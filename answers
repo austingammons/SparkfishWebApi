@@ -1,1 +1,105 @@
 
+1. What are the examples of the types of projects you have deployed to Azure?
+
+A: I have deployed a livestreaming service to Azure that was used for testing.
+
+2. How do you classify your senior-ness as a developer? What are you development strengths?
+
+A: I classify myself as a mid-level full stack developer with 6 years experience working with Microsoft services.
+I consider my development strengths to be:
+
+  a. problem solving
+  b. project dedication
+  c. easy to work with on teams
+  e. handling high work loads
+  f. ability to learn and implement new skills
+  g. passionate about developing the best applications
+  
+3. What are your top 1-2 favorite editor(s)?
+
+A: Microsoft Visual Studio Community Edition
+
+4. Have you ever done a pull request?
+
+A: Yes, using Team Explorer in VS / GitHub. I have worked through many merge conflicts and on multiple branches.
+
+5. Have you ever had a chance to use TDD? Have you found it to be helpful?  If so, when does it work best for you?
+
+A: Yes. I find TDD extremely helpful. It works best for me after implementing a new method. You finish coding a new method and then set up a 
+unit test, run the unit test and if successful, move on to the next method. It's also useful to run tests before committing code to the branch
+and also after pulling code to make sure your team members aren't committing broken code by accident.
+
+6. Have you ever been given the opportunity to use tools like ReSharper? What did you like about it?
+
+A: I have never used ReSharper but I've seen others use ReSharper on Udemy. I never found a use for it. I try to avoid every third party integration
+possible unless there is a very strong need to use one.
+
+7. Do you prefer working directly with the business people? Or do you find it's best to have a go-between?
+
+A: I have experience working with business people and being managed on a software development team. If there are project requirements in place, I'd prefer
+to connect directly with a project manager to speed up development. If the project requirements are not clear, I would first contact a project manager if any
+and then contact the business person if needed to clarify any unclear business logic and project requirements.
+
+8. Have you ever used web.config transformations? If not, do you know what they're good for?
+
+A: I have not. I assume they would be good for dynamically changing web.config element values like a database connection string to handle changes from local
+builds to stage builds to production builds.
+
+9. Can you tell me anything about 'slots' in terms of Azure? If not, based on what you just googled, how would you use them in your next Azure project?
+
+A: I would use Azure slots to handle switching between production builds after a new version of the build is released and ready to ship to production.
+I love the idea of this and will definitely use this on my next Azure project.
+
+10. Can you explain what DevOps and/or continuous integration is, and some of the benefits?
+
+A: DevOps and continous integration mean automated processes and closer team work. The benefits are speed and better collaberation which means the project is 
+completed sooner and the product is more likely to reflect whatever the client needed.
+
+11. Are you technology agnostic or are you pretty strict when it comes to things like Mac vs Windows or AWS vs Azure?
+
+A: I believe any and all parts of technology are simply tools to develop more tools that we use. I know it is much more difficult to develop
+an iPhone application on a Windows OS than a Mac OS, so it really depends on what you want to accomplish and which tool is best for the job.
+I have always used Windows or Linux OS.
+
+12. What are some of your more advanced SQL querying abilities (i.e., like what keywords or commands, etc)?
+
+A: I am not sure how to answer this other than providing a basic high level summary of what I can do. I can write basic CRUD procs, join tables and pull reports.
+I have helped write some dynamic SQL code. I guess the most advanced thing I can do in SQL querying is pulling a report from multiple tables into a view and then
+exporting them into an excel sheet. I love SQL and being in the database. I just haven't found a challenge yet that requires me to 
+push my abilities further. I think this position would help me grow much more.
+
+13. Do you happen to know what TypeScript is and why it's gotten popular? How does it differ from JS?
+
+A: I've never used TypeScript but I do know it's strongly typed. That's probably the number one reason why it's gotten popular. JS can be a pain to work
+with since it isn't strongly typed.
+
+14. Can you explain the diff b/t relation and databases and NoSQL? What are some NoSQL platforms that you have familiarity with?
+
+A: The main difference is how they store data and allow you to access data. I haven't worked with NoSQL platforms before.
+
+15. Can you explain GPG, SSL or public/private key encryption?
+
+A: I wasn't aware of GPG. SSL stands for secure sockets layer. It's used for encryption on connections. public/private key encryption sounds like what 
+one would use for authenticating an API request.
+
+16. Do you know anything about "secure coding" practices? 
+
+A: I am aware of SQL injection and access modifiers, to not expose sensitive data in views, to not store sensitive data in session variables. I know to use
+Guids where possible and to hash passwords. I am actively working on learning ethical hacking with Linux to better myself in the security area.
+
+17. Can _you_ authenticate to GitHub using SSH?
+
+A: I've done it once and then forgot about it. I can easily do it again if needed and learn it fully.
+
+18. Can you explain what REST sorta kinda means?
+
+A: It sorta kinda means that the chef will give the plate of food to anyone. It doesn't care if the food server comes or if the person eating at the restaraunt
+comes to get the food. Hopefully there will be credentials required to pick up the plate of food, but that would be the only thing the chef actually cared about.
+
+19. How enthusiastic would you be if we asked to pay you to take some training courses on Udemy?
+
+A: I would do so with or without pay and I'd be the happiest person in the world. I spend at least an hour daily trying to learn something new and revisiting basics.
+
+20. How many of these platforms / languages / frameworks do you have experience with?
+
+A: SQL, Excel, Linux, Mac, Windows, .NET, C#, MySQL SQL Server, Azure
